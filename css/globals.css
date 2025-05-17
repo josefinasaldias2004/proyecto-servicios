@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  :root {
+    --color-primary: #ffa1eb;
+    --color--primary-light: #f65cc3;
+    --color-primary2: #ff81d5;
+    --color--secondary: #ffaaf8;
+    --color--accent: #ffb9fc;
+    --color--background: #ffd2f4;
+    --color--superficie: #ffbaf4;
+    --color--superficie2: #f7bee9;
+    --color--border: #ecafee;
+    --color--border--clarito:#fdd6ff;
+    --letrasclaritas: #f0f0f0;
+    --letrasoscuras:#5F3D5C;
+    --font-title: 900;
+    --font-text: 500;
+    --degradado: linear-gradient(90deg, var(--color-primary), var(--color--primary-light));;
+    --degradado-oscuro: linear-gradient(0deg, var(--color--primary-light), var(--color--border--clarito));
+  }
