@@ -207,6 +207,7 @@ input {
   }
   li{
     margin-top: 150px;
+    margin-bottom: 40px;
   }
   li:hover{
     transition: all 0.2s;
